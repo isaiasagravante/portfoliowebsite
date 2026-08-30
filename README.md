@@ -29,7 +29,4 @@ Open `index.html` in a browser, or serve the folder with any static file server.
 
 This site can be deployed to Cloudflare Pages, GitHub Pages, or any static hosting platform.
 
-## Notes
 
-- This project is a manual rebuild inspired by the original Framer site.
-- Media assets are currently loaded from remote URLs.
